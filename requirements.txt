@@ -1,6 +1,1 @@
-numpy
-streamlit
-librosa
-portaudio
-pyaudio
-scikit_learn
+
