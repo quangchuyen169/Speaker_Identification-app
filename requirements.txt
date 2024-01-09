@@ -1,5 +1,6 @@
 numpy
 streamlit
 librosa
-PyAudio
+portaudio==19.6.0
+pyaudio==0.2.11
 scikit_learn
