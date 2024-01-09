@@ -3,3 +3,4 @@ streamlit
 librosa
 sounddevice
 scikit_learn
+python_speech_features
