@@ -1,4 +1,5 @@
 numpy
+$ brew install portaudio
 streamlit
 librosa
 sounddevice
