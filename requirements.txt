@@ -1,5 +1,4 @@
 numpy
-portaudio
 streamlit
 librosa
 sounddevice
