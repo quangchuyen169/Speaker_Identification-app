@@ -1,5 +1,4 @@
 numpy
-$ sudo python3 -m pip install pyaudio
 streamlit
 librosa
 sounddevice
